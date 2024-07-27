@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5018038-CTS-Digital-Nuture-3.0-Assessments.iml" filepath="$PROJECT_DIR$/.idea/5018038-CTS-Digital-Nuture-3.0-Assessments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Adapter pattern/Adapter pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Adapter pattern/Adapter pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Builder pattern/Builder pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Builder pattern/Builder pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Command pattern/Command pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Command pattern/Command pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Decorator pattern/Decorator pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Decorator pattern/Decorator pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Dependency injection/Dependency injection.iml" filepath="$PROJECT_DIR$/Week1/Module1/Dependency injection/Dependency injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Factory method/Factory method.iml" filepath="$PROJECT_DIR$/Week1/Module1/Factory method/Factory method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/MVC pattern/MVC pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/MVC pattern/MVC pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Module1.iml" filepath="$PROJECT_DIR$/Week1/Module1/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module2/Module2.iml" filepath="$PROJECT_DIR$/Week1/Module2/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Observer pattern/Observer pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Observer pattern/Observer pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Proxy pattern/Proxy pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Proxy pattern/Proxy pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Singleton method/Singleton method.iml" filepath="$PROJECT_DIR$/Week1/Module1/Singleton method/Singleton method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Module1/Strategy pattern/Strategy pattern.iml" filepath="$PROJECT_DIR$/Week1/Module1/Strategy pattern/Strategy pattern.iml" />
+    </modules>
+  </component>
+</project>
